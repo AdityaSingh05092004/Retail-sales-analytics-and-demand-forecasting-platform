@@ -167,3 +167,8 @@ jupyter notebook retail_analysis.ipynb
 
 ---
 
+---
+
+## 👨‍💻 Author
+
+**Made by Aditya Singh**
